@@ -4,12 +4,8 @@
 - 💞️ I’m looking to collaborate on mostly websites and Java/Python programs at the moment!
 - 📫 How to reach me - my main email is joeyfunderburg@gmail.com, and my school email is jrf4648@email.vccs.edu! Will probably add more in the future.
 
+Geese can be cool too.
 ![image](https://github.com/joeyfunderburg/joeyfunderburg/assets/148481021/c1a22478-abf1-4100-8a6e-b78858489e21)
-
-
-<a href="the-url-you-want-to-go-when-image-is-clicked.com" />
-<img src="[image-source-url-location.com](https://upload.wikimedia.org/wikipedia/commons/3/34/Anser_anser_1_%28Piotr_Kuczynski%29.jpg)" />
-
 
 
 <!---
